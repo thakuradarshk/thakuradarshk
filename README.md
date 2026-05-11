@@ -62,7 +62,7 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center">
-<a href="https://github.com/Mahaboobunnisa123">
+<a href="https://github.com/thakuradarshk">
 
 ![followers](https://img.shields.io/github/followers/thakuradarshk?style=social)
 ![stars](https://img.shields.io/github/stars/thakuradarshk?style=social)
